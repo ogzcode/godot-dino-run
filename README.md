@@ -1,5 +1,11 @@
 # Js-BreakOut-Game
-Built with the Canvas API.
-> *_NOTE_* Only tested in Chrome.
-##Screenshot
+Javascript kullanarak geliştirdiğim Breakout klonu.
+
+### Kullandığım Telnolojiler
+* HTML
+* CSS
+* Javascript
+* Canvas API
+
+## Ekran Görüntüsü
 ![Screenshot](breakout_screenshot.png)
