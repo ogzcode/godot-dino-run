@@ -1,5 +1,6 @@
 # Js-BreakOut-Game
-Javascript kullanarak geliştirdiğim Breakout klonu.
+Javascript kullanarak geliştirdiğim Breakout klonu.<br>
+>Mouse ile oynanır
 
 ### Kullandığım Telnolojiler
 * HTML
